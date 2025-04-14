@@ -1,3 +1,3 @@
-# .github
+# DOKAAI : ONE PLACE FOR ALL YOUR SIHSCRIBED MICROSERVICES
 
-👋 I am swift notifer for everyone
+👋 I am DOKAAI for everyone
