@@ -1,110 +1,67 @@
+<div align="center">
+
+<img src="./logo.jpg" alt="DokaAI Logo" width="120" />
+
 # DokaAI
 
-Business intent becomes safe execution — continuously, at scale.
+### AI-powered workflow and execution infrastructure
 
-DokaAI is building a modular AI-powered control layer for modern software systems.
-We help teams orchestrate workflows, communication, automation, and operational intelligence across products and services.
+*Business intent becomes safe execution.*
 
-Our platform is designed around safety, extensibility, observability, and domain-driven architecture — enabling businesses to scale execution without losing control.
-
----
-
-## What We Are Building
-
-### Notification & Communication Infrastructure
-
-Unified orchestration for:
-
-* Email
-* SMS
-* WhatsApp
-* Push notifications
-* In-app messaging
-
-With support for:
-
-* Delay workflows
-* Digest pipelines
-* Scheduled delivery
-* Preference-aware routing
-* Multi-provider failover
-* BYO provider integrations
+</div>
 
 ---
 
-### Engagement Workflows
+## What is DokaAI?
 
-Event-driven workflow execution for:
+DokaAI is building a modular execution and orchestration layer for modern software systems.
 
-* Customer engagement
-* Lifecycle automation
-* Operational messaging
-* Cohort-based campaigns
-* Internal process orchestration
-
-Built with composable workflow primitives and scalable execution pipelines.
+We help teams manage workflows, communication, automation, and operational execution across services and channels without tightly coupling business logic directly into infrastructure.
 
 ---
 
-### AI-Assisted Operational Systems
+## Platform Focus
 
-We are developing AI-powered infrastructure focused on:
-
-* Search and retrieval
-* Workflow intelligence
-* Operational assistance
-* Agent-driven execution
-* Safe automation boundaries
-
-The long-term goal is to reduce operational complexity while preserving governance, auditability, and system reliability.
+- Unified notification orchestration
+- Email, SMS, WhatsApp, push, and in-app delivery
+- Delay, digest, and scheduled workflows
+- Event-driven execution pipelines
+- BYO provider integrations
+- Preference-aware routing
+- Auditability and operational visibility
 
 ---
 
 ## Engineering Principles
 
-DokaAI is built around a strongly modular and domain-driven architecture.
-
-Core principles include:
-
-* Domain-first system design
-* Explicit boundaries and ownership
-* Event-driven workflows
-* Safe execution pipelines
-* Observable infrastructure
-* Provider abstraction
-* Scalable queue-based processing
-* Zero unnecessary data egress
+- Domain-driven architecture
+- Event-driven systems
+- Explicit service boundaries
+- Queue-first execution
+- Observable infrastructure
+- Modular platform design
+- Zero unnecessary data egress
 
 ---
 
-## Current Status
+## Technology Stack
+
+TypeScript • Node.js • PostgreSQL • Redis • BullMQ
+
+---
+
+## Status
 
 DokaAI is currently under active development and platform restructuring.
 
-Public repositories may remain limited while core infrastructure, services, and internal tooling continue to evolve privately.
+Most core repositories remain private while foundational systems continue evolving.
 
-Documentation, SDKs, examples, and public integration resources will gradually become available.
-
----
-
-## Technology Focus
-
-Current platform development includes work around:
-
-* TypeScript & Node.js
-* PostgreSQL
-* Redis & BullMQ
-* Event-driven systems
-* Workflow orchestration
-* AI-assisted tooling
-* Distributed execution infrastructure
+Public SDKs, examples, and developer tooling will gradually become available.
 
 ---
 
-## Vision
+<div align="center">
 
-We believe future software systems will require a dedicated execution and governance layer between business intent and operational infrastructure.
+### Building infrastructure for scalable business execution.
 
-DokaAI is being built to become that layer.
-
----
+</div>
