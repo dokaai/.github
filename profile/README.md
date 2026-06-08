@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.jpg" alt="DokaAI Logo" width="120" />
+<img src="./logo-dokaai.png" alt="DokaAI Logo" width="120" />
 
 # DokaAI
 
